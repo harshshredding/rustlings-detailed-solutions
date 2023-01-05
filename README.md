@@ -1,5 +1,7 @@
 # Solutions
-Up-To-Date **Detailed** rustlings solutions (with available alternate solutions for the same problem).
+Up-To-Date, refined, rustlings solutions (alternate solutions for the same problem available).  
+Trying to become a premium source for rustlings solutions. All kinds of pull requests are welcomed.  
+Please reach out to me at harshv@cs.washington.edu.  
 Built upon Wei Hu's [solutions](https://github.com/wh5a/rustlings-solutions)
 
 # rustlings 🦀❤️
