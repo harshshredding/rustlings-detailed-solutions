@@ -1,5 +1,5 @@
 # Solutions
-Up-To-Date Rustlings **Detailed** solutions (with available alternate solutions for the same problem).
+Up-To-Date **Detailed** rustlings solutions (with available alternate solutions for the same problem).
 Built upon Wei Hu's [solutions](https://github.com/wh5a/rustlings-solutions)
 
 # rustlings 🦀❤️
